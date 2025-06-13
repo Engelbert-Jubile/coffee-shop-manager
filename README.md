@@ -41,7 +41,7 @@ A web-based inventory system to manage coffee shop items, built using **Laravel*
 
 ## ⚙️ Installation Guide
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Engelbert-Jubile/coffee-shop-manager.git
